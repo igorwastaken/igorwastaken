@@ -10,7 +10,6 @@ I'm a young and passionate developer from Brazil, constantly exploring and learn
 - **Interests:** Coding, tech, and continuous learning
 
 ## What I'm Working On
-- [**@oncordjs Projects:**](https://github.com/oncord) Developing `@oncordjs/client` and `@oncordjs/voice` to enhance Discord's functionality.
 - [**What The Floosh Game:**](https://igorwastaken.itch.io/wtfl-game) An exciting new game project that I'm developing, stay tuned for more updates!
 
 ## Connect with Me
