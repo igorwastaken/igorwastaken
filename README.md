@@ -10,7 +10,9 @@ I'm a young and passionate developer from Brazil, constantly exploring and learn
 - **Interests:** Coding, tech, and continuous learning
 
 ## What I'm Working On
-- [**What The Floosh Game:**](https://igorwastaken.itch.io/wtfl-game) An exciting new game project that I'm developing, stay tuned for more updates!
+- [**What The Floosh Game:**](https://igorwastaken.itch.io/wtfl-game) (no longer maintaining) An exciting new game project that I'm developing, stay tuned for more updates!
+- [**Lrclib-api:**](https://github.com/notigorwastaken/lrclib-api) A simple lrclib.net api wrapper for npmjs.
+- [**OnBeat:**](https://onbeat.site/) Listen to your favorite radio stations with OnBeat.
 
 ## Connect with Me
 - **GitHub:** [igorwastaken](https://github.com/igorwastaken)
