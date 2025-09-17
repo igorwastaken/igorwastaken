@@ -2,13 +2,6 @@
 
 I'm a young and passionate developer from Brazil, constantly exploring and learning new technologies.
 
-## About Me 🥰
-- **Name:** Igor
-- **Age:** Teenager...
-- **Location:** A small town in the countryside of São Paulo, Brazil
-- **Education:** High School
-- **Interests:** Coding, tech, and continuous learning
-
 ## What I'm Working On
 - [**What The Floosh Game:**](https://igorwastaken.itch.io/wtfl-game) (no longer maintaining) An exciting new game project that I'm developing, stay tuned for more updates!
 - [**Lrclib-api:**](https://github.com/notigorwastaken/lrclib-api) A simple lrclib.net api wrapper for npmjs.
