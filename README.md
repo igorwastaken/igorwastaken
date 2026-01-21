@@ -3,7 +3,7 @@
 I'm a young and passionate developer from Brazil, constantly exploring and learning new technologies.
 
 ## What I'm Working On
-- [**What The Floosh Game:**](https://igorwastaken.itch.io/wtfl-game) (no longer maintaining) An exciting new game project that I'm developing, stay tuned for more updates!
+- [BeatBot](https://github.com/OnBeat-Project/BeatBot) A discord music bot playing songs using lavalink.
 - [**Lrclib-api:**](https://github.com/notigorwastaken/lrclib-api) A simple lrclib.net api wrapper for npmjs.
 - [**OnBeat:**](https://onbeat.site/) Listen to your favorite radio stations with OnBeat.
 
