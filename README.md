@@ -3,9 +3,8 @@
 I'm a young and passionate developer from Brazil, constantly exploring and learning new technologies.
 
 ## What I'm Working On
-- [BeatBot](https://github.com/OnBeat-Project/BeatBot) A discord music bot playing songs using lavalink.
+- [Snipp Mobile](https://github.com/snipp-gg) I'm developing the Snipp Mobile app for Android and iOS.
 - [**Lrclib-api:**](https://github.com/notigorwastaken/lrclib-api) A simple lrclib.net api wrapper for npmjs.
-- [**OnBeat:**](https://onbeat.site/) Listen to your favorite radio stations with OnBeat.
 
 ## Connect with Me
 - **GitHub:** [igorwastaken](https://github.com/igorwastaken)
@@ -41,9 +40,6 @@ I'm a young and passionate developer from Brazil, constantly exploring and learn
   <img width="12" />
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
 </div>
-
-# Spotify
-![Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=z9q572lf0ytsndqyzb0m4giwj)
 
 ---
 Feel free to explore my projects and get in touch if you have any questions or just want to chat about tech!
